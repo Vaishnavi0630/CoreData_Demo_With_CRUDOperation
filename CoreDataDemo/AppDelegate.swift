@@ -2,8 +2,8 @@
 //  AppDelegate.swift
 //  CoreDataDemo
 //
-//  Created by Admin on 26/06/19.
-//  Copyright © 2019 Admin. All rights reserved.
+//  Created by Vaishnavi Sasane on 26/06/19.
+//  Copyright © 2019 Vaishnavi Sasane. All rights reserved.
 //
 
 import UIKit
@@ -17,6 +17,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
 
     func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?) -> Bool {
         // Override point for customization after application launch.
+    
         return true
     }
 

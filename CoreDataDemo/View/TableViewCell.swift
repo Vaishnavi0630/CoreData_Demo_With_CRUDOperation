@@ -2,8 +2,8 @@
 //  TableViewCell.swift
 //  CoreDataDemo
 //
-//  Created by Admin on 27/06/19.
-//  Copyright © 2019 Admin. All rights reserved.
+//  Created by Vaishnavi Sasane on 27/06/19.
+//  Copyright © 2019 Vaishnavi Sasane. All rights reserved.
 //
 
 import UIKit

@@ -2,8 +2,8 @@
 //  DataBaseHelper.swift
 //  CoreDataDemo
 //
-//  Created by Admin on 26/06/19.
-//  Copyright © 2019 Admin. All rights reserved.
+//  Created by Vaishnavi Sasane on 26/06/19.
+//  Copyright © 2019 Vaishnavi Sasane. All rights reserved.
 //
 
 import Foundation
